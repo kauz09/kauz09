@@ -2,7 +2,7 @@
 
 - Meu nome é _Kauz09_
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
